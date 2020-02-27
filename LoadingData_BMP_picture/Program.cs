@@ -14,6 +14,7 @@ namespace LoadingData_BMP_picture
         
         static void Main(string[] args)
         {
+            //added from personal laptop
             //note Vojta
             String fileName = "d:\\dokumenty\\Vojta\\UTB\\visual_studio_repos\\picturesSources\\jednoduchy1.bmp";
             FileStream fs = new FileStream("d:\\dokumenty\\Vojta\\UTB\\visual_studio_repos\\picturesSources\\jednoduchy1.bmp", FileMode.Open,FileAccess.Read);
