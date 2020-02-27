@@ -15,7 +15,7 @@ namespace LoadingData_BMP_picture
         static void Main(string[] args)
         {
             //added from personal laptop
-        
+            //added from personal 15:40
             //added on company laptop
             //note Vojta
             //someothernote
